@@ -1,0 +1,23 @@
+Raw Dataset Source:
+Kaggle – Ecommerce Order Level Data
+
+Raw Dataset Characteristics:
+- 24 columns
+- Mixed data types
+- Missing values
+- Inconsistent categorical values
+- No direct business KPIs
+
+Cleaned Dataset Characteristics:
+- 19 optimized columns
+- Null-free and standardized
+- Business-ready features added
+- Optimized for SQL & Power BI
+
+Key Columns:
+- Order ID, Date, Status, Fulfilment
+- Category, Size, Qty, Amount
+- Ship City, Ship State, Zone
+- Year, Month, Day
+- Sales, Success Flag
+- Price Segment, Size Group

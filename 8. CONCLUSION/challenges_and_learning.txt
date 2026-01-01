@@ -1,0 +1,9 @@
+Challenges Faced:
+- Large dataset handling
+- Missing and inconsistent data
+- Feature design from raw data
+
+Learnings:
+- Importance of data cleaning
+- Business-oriented feature engineering
+- Translating data insights into decisions

@@ -1,0 +1,6 @@
+
+
+--- sql commands --- 
+
+        This folder consists of insightfull sql commands which help in business insights and more accurate data visualisation 
+helping in giving business and stakeholders a better command over their sales, profit , churn etc.

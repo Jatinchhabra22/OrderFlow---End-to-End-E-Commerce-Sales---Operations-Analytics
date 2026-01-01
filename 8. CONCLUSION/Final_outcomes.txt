@@ -1,0 +1,4 @@
+- Built a complete analytics pipeline from raw data
+- Delivered actionable business insights
+- Created recruiter-ready dashboards and reports
+- Demonstrated real-world data analyst skills

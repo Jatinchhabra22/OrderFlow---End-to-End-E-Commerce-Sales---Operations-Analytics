@@ -1,0 +1,16 @@
+Key Cleaning Steps Performed:
+
+1. Removed irrelevant and redundant columns
+2. Handled missing values in Amount, Currency, and Location fields
+3. Standardized categorical values (Status, Fulfilment, Size)
+4. Converted Date column into Year, Month, Day
+5. Fixed inconsistent data types
+6. Removed rows with invalid quantity and pricing
+7. Created a clean, analytics-ready dataset
+8. performed eda and feature engineerng for better business insights.
+
+Impact:
+
+- Improved data reliability
+- Enabled accurate aggregation
+- Reduced noise in analysis

@@ -1,0 +1,5 @@
+- Predict order failure probability
+- Customer segmentation
+- Inventory optimization models
+- Integration with real-time dashboards
+- Integration of ai/ml models for better Prediction techniques and business insights

@@ -1,0 +1,26 @@
+Features Created:
+
+1. Sales Column:
+   - Converts raw amount into business revenue metric
+
+2. Success Flag:
+   - Binary indicator for successful vs failed orders
+
+3. Price_Segment:
+   - Low / Medium / High pricing classification
+   - Helps in pricing strategy analysis
+
+4. Size_Group:
+   - Aggregated size categories for better insights
+
+5. Zone:
+   - Regional grouping for logistics analysis
+
+6. Date Breakdown:
+   - Year, Month, Day extracted for time series analysis
+
+Business Value:
+- Enables stakeholders and businesses help visualise their sales and dataset
+- Enables KPI creation
+- Supports executive dashboards
+- Simplifies SQL and BI analysis

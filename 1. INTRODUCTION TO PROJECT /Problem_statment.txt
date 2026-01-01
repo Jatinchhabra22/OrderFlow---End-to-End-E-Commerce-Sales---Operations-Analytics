@@ -1,0 +1,13 @@
+Ecommerce companies face challenges in understanding:
+
+- Why certain orders fail or get delayed
+- Which product categories and sizes generate maximum revenue
+- Regional sales performance differences
+- Pricing and fulfillment impact on sales success
+
+This project aims to analyze historical ecommerce order data to:
+
+- Improve sales performance
+- Reduce failed deliveries
+- Optimize pricing and inventory planning
+- Support data-driven business decisions

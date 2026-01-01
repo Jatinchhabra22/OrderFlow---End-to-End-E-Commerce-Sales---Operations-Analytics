@@ -1,0 +1,12 @@
+Key Insights from EDA:
+
+1. Majority of revenue is generated from a small number of product categories
+2. Certain sizes consistently outperform others in sales volume
+3. Order success rate varies significantly by fulfilment type
+4. Metro zones contribute higher revenue but also higher failure rates
+5. Month-wise sales show clear seasonality trends
+6. Failed orders are concentrated in specific regions
+7. High-priced items have lower order volume but higher revenue contribution
+8. Certain courier statuses strongly correlate with delivery failures
+9. Zone-wise analysis reveals logistics inefficiencies
+10. Order success rate improves for mid-range price segments
